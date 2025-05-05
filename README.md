@@ -3,6 +3,9 @@
 ## 📌 Project Title
 **Tokenized Skill Challenges**
 
+##![Demo of Tokenized Skill Challenges](demo.png)
+
+
 ## 📄 Project Description
 A decentralized platform where users can create and participate in skill-based challenges. Creators define tasks and set tokenized rewards that are awarded to winners upon completion.
 
